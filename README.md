@@ -1,4 +1,4 @@
-# Machine Learning 
+# Machine Learning 🦾
 
 ### What is Machine Learning ?
 Machine Learning is the science of programming computers so they can learn from data.
