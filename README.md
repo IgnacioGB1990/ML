@@ -12,3 +12,14 @@ No, they are already invented ( by very smart people) and we will only need to k
 ### What is a model ?
 A model is a trained machine learning algorithm that has been adjusted to generalize the best way to make accurate predictions.
 
+### What are the algorithms that I will need to know?
+The most popular machine learning algorithms are:
+
+- Linear Regression
+- Logistic Regression
+- kNN
+- Decision Tree
+- Random Forest
+- SVM
+- K-means
+- Gradient Boosting/AdaBoosting
