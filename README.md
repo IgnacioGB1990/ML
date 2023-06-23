@@ -1,6 +1,6 @@
 # Machine Learning
 
-<img src="https://www.iberdrola.com/documents/20125/40921/machine_learning_746x419.jpg/15ff7571-4cfc-d9f0-5ef4-9c2e9306ad88?t=1627968463400" width=500 height=300>
+<img src="https://www.iberdrola.com/documents/20125/40921/machine_learning_746x419.jpg/15ff7571-4cfc-d9f0-5ef4-9c2e9306ad88?t=1627968463400" width=550 height=300>
 
 ### What is Machine Learning ?
 Machine Learning is the science of programming computers so they can learn from data.
