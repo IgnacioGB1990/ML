@@ -26,5 +26,10 @@ The most popular machine learning algorithms are:
 - K-means
 - Gradient Boosting/AdaBoosting
 
-### Should I go and just dive now?
-No, you first need to understand that the above algorithms are classified depending on the type of prediction.
+### Should I go and just dive now into learning each algorithm?
+Before diving in you must understand that the above algorithms can not be used to predict all types of problems.
+
+Machine learning algorithms can be classified into 2 main categories:
+
+- Supervised
+- Unsupervised
