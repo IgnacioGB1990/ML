@@ -2,7 +2,7 @@
 
 ### What is Machine Learning ?
 
-Machine learning uses models to make predictions.
+Machine Learning is the science of programming computers so they can learn from data.
 
 ### What is a model ?
 
