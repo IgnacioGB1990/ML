@@ -23,3 +23,6 @@ The most popular machine learning algorithms are:
 - SVM
 - K-means
 - Gradient Boosting/AdaBoosting
+
+### Should I go and just dive now?
+No, you first need to understand that the above algorithms are classified depending on the type of prediction.
