@@ -6,7 +6,7 @@ Machine Learning is the science of programming computers so they can learn from 
 ### How do they learn from data ?
 Through machine learning algorithms.
 
-### Will I have to learn to create them ?
+### Will I have to learn to create these algorithms ?
 No, they are already invented by smarter people and we will only need to know how and when to use them.
 
 ### What is a model ?
