@@ -31,5 +31,5 @@ Before diving in you must understand that the above algorithms can not be used t
 
 Machine learning algorithms can be classified into 2 main categories:
 
-- Supervised
-- Unsupervised
+- Supervised: data is labeled.
+- Unsupervised: data is unlabeled.
