@@ -1,10 +1,14 @@
 # Machine Learning 
 
 ### What is Machine Learning ?
-
 Machine Learning is the science of programming computers so they can learn from data.
 
-### What is a model ?
+### How do they learn from data ?
+Through machine learning algorithms.
 
-A model is a trained statistical algorithm that has been adjusted to generalize the best way to make accurate predictions.
+### Will I have to learn to create them ?
+No, they are already invented by smarter people and we will only need to know how and when to use them.
+
+### What is a model ?
+A model is a trained machine learning algorithm that has been adjusted to generalize the best way to make accurate predictions.
 
