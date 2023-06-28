@@ -33,3 +33,25 @@ Machine learning algorithms can be classified into 2 main categories:
 
 - Supervised: algorithms are trained using labeled examples, such as an input where the desired output is known.
 - Unsupervised: data is unlabeled.
+
+### How do I know if my model has perfomed well?
+
+Classification metrics:
+- Accuracy:
+    - Accuracy in classification problems is the **number of correct predictions** made by the model divided by the **total number of predictions.** Useful when target classes are well balanced. Imagine we have 99 ham (legitimate) messages and 1 spam. If our model was simply a line that always predicted ham we would get 99% accuracy. In that case we should turn into recall and precision.
+
+- Recall:
+    - Abilitiy of a model to find **all** the relevant cases within a dataset.
+    - The precise definition: **number of true positives divided by the number of true positives plus the number of false negatives.**
+- Precision:
+    - Abilitiy of a classification model to identify **only** the relevant data points.
+    - Precision is defined as the number of **true positives divided by the number of true positivest plus the number of false positives**.
+
+Often you have a trade-off between Recall and Precision.
+
+While recall expresses the ability to find all relevant instances. ina dataset, precision expresses the proportion of the data points our model says was relevant actually were relevant.
+
+In cases we want to find an optimal blend of precision and recall we can combine the two metrics using what is called the F1socre.
+
+- Fi-Score: harmonic mean (because it punishes extreme values) of precision. andrecall taking both metrics into account in the following equation:  F1= 2* (precision*recall)/precicion+ recall
+
