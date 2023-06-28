@@ -53,5 +53,7 @@ While recall expresses the ability to find all relevant instances. ina dataset, 
 
 In cases we want to find an optimal blend of precision and recall we can combine the two metrics using what is called the F1socre.
 
-- Fi-Score: harmonic mean (because it punishes extreme values) of precision. andrecall taking both metrics into account in the following equation:  F1= 2* (precision*recall)/precicion+ recall
+- Fi-Score: harmonic mean (because it punishes extreme values) of precision. andrecall taking both metrics into account in the following equation:  F1 = 2 * (precision*recall)/precicion+ recall
 
+The main point to remember with the confusion matrix and the various calculated metrics is that they are all fundamentally ways of comparing the predicted values versus the true values.
+What constitues "good" metrics, will really depend on the specific situation!
