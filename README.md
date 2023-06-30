@@ -57,3 +57,5 @@ In cases we want to find an optimal blend of precision and recall we can combine
 
 The main point to remember with the confusion matrix and the various calculated metrics is that they are all fundamentally ways of comparing the predicted values versus the true values.
 What constitues "good" metrics, will really depend on the specific situation!
+
+Confusion matrix:
